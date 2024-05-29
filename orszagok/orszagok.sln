@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34616.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "orszagok", "orszagok\orszagok.csproj", "{047F8DF0-D030-4B34-9AF7-C432FCC33E39}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "orszagok_Lib", "orszagok_Lib\orszagok_Lib.csproj", "{BE1C8123-601F-457F-B9EE-4850D4F51FA0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{047F8DF0-D030-4B34-9AF7-C432FCC33E39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{047F8DF0-D030-4B34-9AF7-C432FCC33E39}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{047F8DF0-D030-4B34-9AF7-C432FCC33E39}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{047F8DF0-D030-4B34-9AF7-C432FCC33E39}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE1C8123-601F-457F-B9EE-4850D4F51FA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE1C8123-601F-457F-B9EE-4850D4F51FA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE1C8123-601F-457F-B9EE-4850D4F51FA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE1C8123-601F-457F-B9EE-4850D4F51FA0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EE999A2E-9CCE-4AD3-A634-A778BABD8BD4}
+	EndGlobalSection
+EndGlobal
