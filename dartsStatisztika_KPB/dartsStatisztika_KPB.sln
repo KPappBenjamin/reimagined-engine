@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34616.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dartsStatisztika_Lib", "dartsStatisztika_KPB\dartsStatisztika_Lib.csproj", "{C5C1A129-A489-4CA0-8F90-C2655C55D3D6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dartsStatisztika", "dartsStatisztika\dartsStatisztika.csproj", "{61D5AC95-57D1-43A4-9FE9-89AA1E7C34BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C5C1A129-A489-4CA0-8F90-C2655C55D3D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5C1A129-A489-4CA0-8F90-C2655C55D3D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5C1A129-A489-4CA0-8F90-C2655C55D3D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5C1A129-A489-4CA0-8F90-C2655C55D3D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{61D5AC95-57D1-43A4-9FE9-89AA1E7C34BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61D5AC95-57D1-43A4-9FE9-89AA1E7C34BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61D5AC95-57D1-43A4-9FE9-89AA1E7C34BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61D5AC95-57D1-43A4-9FE9-89AA1E7C34BA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0E400A4E-E507-42C4-B889-1D1060A0389C}
+	EndGlobalSection
+EndGlobal
